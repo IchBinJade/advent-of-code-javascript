@@ -1,6 +1,8 @@
-# 2023_AdventOfCode
+# Advent of Code - Javascript
 
-### Solutions for 2023's Advent of Code
+Main repo for Advent of Code solutions in Javascript
+
+## 2023
 
 [Day 01](https://github.com/IchBinJade/2023-advent-of-code/blob/main/src/day01.js) - Part 1 & 2
 
